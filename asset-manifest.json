@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Viqto0r/ReactTest/static/css/main.325a883d.css",
+    "main.js": "/Viqto0r/ReactTest/static/js/main.8dca5abf.js",
+    "static/css/768.0a4f01f3.chunk.css": "/Viqto0r/ReactTest/static/css/768.0a4f01f3.chunk.css",
+    "static/js/768.f2c57bc0.chunk.js": "/Viqto0r/ReactTest/static/js/768.f2c57bc0.chunk.js",
+    "static/media/loader.gif": "/Viqto0r/ReactTest/static/media/loader.a1a996746e5e48352c81.gif",
+    "index.html": "/Viqto0r/ReactTest/index.html",
+    "main.325a883d.css.map": "/Viqto0r/ReactTest/static/css/main.325a883d.css.map",
+    "main.8dca5abf.js.map": "/Viqto0r/ReactTest/static/js/main.8dca5abf.js.map",
+    "768.0a4f01f3.chunk.css.map": "/Viqto0r/ReactTest/static/css/768.0a4f01f3.chunk.css.map",
+    "768.f2c57bc0.chunk.js.map": "/Viqto0r/ReactTest/static/js/768.f2c57bc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.325a883d.css",
+    "static/js/main.8dca5abf.js"
+  ]
+}
